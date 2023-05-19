@@ -8,7 +8,7 @@
 
 ## Problem
 
-問題分は次のリンクを参照してください。
+問題文は次のリンクを参照してください。
 
 - <https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_3_A&lang=jp>
 
