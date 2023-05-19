@@ -17,10 +17,17 @@
 コンパイルと実行方法
 
 ```bash
-g++ main.cpp
-./a.out << input.txt
-./a.out << input2.txt
-./a.out << input3.txt
+$ g++ main.cpp
+
+$ ./a.out < input.txt
+> 4
+
+$ ./a.out < input2.txt
+> 9
+
+$ ./a.out < input3.txt
+> 1
+
 ```
 
 ## Author
